@@ -32,11 +32,6 @@ The dataset includes booking information such as dates, number of people, parkin
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
-## Authors
-- **[Your Name]** - *Initial work* - [YourGitHub](https://github.com/YourGitHub)
 
 ## Acknowledgments
 - Thanks to the team at Microsoft Research for creating the DoWhy library, which inspired some of the causal inference techniques used in this project.
